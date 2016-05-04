@@ -1,0 +1,378 @@
+verb	sense_num	queries
+help	1	money helping orphans,  helping locate bodies,  assist someone,  helping carry groceries,  helping around the house,  helping clarify goals,  helping prevent accidents,  helping look brighter,  pill helping,  helping increase sales,  helping see steps,  police helping,  helping carry potatoes,  helping carry
+help	2	helping yourself to potatoes,  helping yourself to supplies,  helping yourself to pie,  eat potatoes,  waiter serving customer,  eat pie,  serve food
+show	1	showing disappointment,  exhibit showing life,  scar showing up,  scars showing,  showing talent,  showing parking spot,  showing flights,  DNA showing,  graffiti showing through,  button showing,  cueson showing,  thermometer showing,  showing suit,  showing thoughts,  showing difference,  disgust showing up,  upbringing showing,  cursor showing,  trials showing effectiveness,  showing notes,  thermometer showing temperature,  clerks hows shoes
+show	3	demo at conference,  exhibit work,  horse showing,  gallery exhibit,  dog showing,  exhibit gallery,  demo exhibit,  showing dog
+show	4	Tourist Asking for Directions,  people showing directions,  usher theatre,  man showing to seat,  showing directions,  usher cinema
+move	1	moving out troops,  moving on to fiddle,  change position,  moving boxes,  moving out,  messages moving,  troops moving out,  music moving,  stock market moving,  moving account,  earnings moving,  moving hand,  moving over,  company moving towards outsourcing,  moving box
+move	5	sell shop,  garage sale,  flea market sale,  sell market
+move	4	moving around,  change affiliation,  headquarters moving,  moving to company,  moving to Miami,  change residence,  moving to party,  change employment,  moving in together,  moving to new office,  moving into house,  moving to Nebraska,  moving out of condo
+rest	1	resting in shade,  person resting,  birds resting,  relaxing sleep,  animals sleeping
+rest	3	cause to be inactive,  resting troops,  resting leg,  resting field,  resting hand
+rest	2	head leaning on shoulder,  resting cane against wall,  supported,  book resting on shelf,  lean cane against wall,  resting hand,  resting head on shoulder
+pitch	2	boat pitching down wave,  pitching into battle,  fall into fire,  plane pitching to right,  run into battle,  boat stuck in waves,  run into fire,  pitching into fire
+pitch	5	terrain pitching up,  be at an angle,  ceiling pitching,  lean at an angle
+pitch	7	pitching innings,  pitching game,  baseball pitching thow
+pitch	6	erect tent,  pitching tent,  setting up tent
+touch	1	make physical contact with,  touching fingertips,  touching hands
+touch	2	buildings touching,  arms touching,  touching hands,  shadow touching,  ball touching ground,  touching people,  sunlight touching wall,  come in contact
+touch	6	makeup final touching,  touching on painting,  touching up paint,  improve appearance,  touching up make-up,  touching earrings with gold,  touching up photos,  goldsmith working
+blow	10	chicken laying eggs,  lay eggs,  bird laying eggs
+blow	13	face blowing up,  inflate balloon,  fill with air,  blowing balloon
+blow	12	blowing stack,  get angry,  anger shout,  blowing fuse
+blow	14	blowing up picture,  blowing up story,  blowing gum,  blowing bubbles,  blowing up balloon,  blowing inflatable
+blow	1	blowing out candles,  blowing whale,  blowing nose,  whale blowing,  exhale,  blowing on soup,  blowing candle
+blow	3	blowing trumpet,  whistle blowing,  blowing horn,  blowing whistle,  blowing instrument
+blow	2	blowing kiss,  blowing leaves,  wind blowing,  blowing dry hair
+blow	4	garage explosion,  blowing top,  laptop blowing up,  laptop on fire,  garage explodes,  volcano explosion,  blowing up garage,  bomb blowing up,  well blowing out,  volcano blowing,  blowing fuse,  blowing out plug,  blowing off roof
+blow	7	blowing vase,  blowing glass,  shape by blowing
+blow	8	blowing sex,  blowing job
+cut	1	cutting bushes,  cutting finger,  Scalpel Incision,  cutting branch away,  cutting hair,  gardener cutting bushes,  cutting butter,  boat cutting water,  cutting with scalpel,  cutting rope with scissors,  cutting nails,  cutting grain,  cutting up ham,  cutting rope,  knife cutting
+cut	3	cutting diamonds,  cutting record,  cutting check,  cutting CD,  cutting titles,  cutting dress,  cutting film,  cutting trench,  cutting deal,  cutting hair,  cutting cloth,  Person Cutting with Scissors,  cutting paper
+cut	4	car turning left,  cutting in front of,  turn,  cutting chin,  car turn,  cutting across platform,  cutting off,  cutting in,  car cutting to left,  cutting through
+cut	7	baby cutting tooth,  grow through the gums,  baby new tooth,  tooth cutting
+spread	1	spreading rug,  spead map out,  spreading fingers,  spreading arms wide,  spreading wings,  spreading wing,  spreading toes,  spreading arms
+spread	3	spreading table,  spreading bread with cheese,  spreading the bed,  spreading bed,  spreading ground with ash
+spread	2	spreading paint,  spreading jam,  spot spreading across water,  spreading news,  spreading out seed,  spreading information,  fire spreading,  suburbs spreading out,  virus spreading through contact,  spreading seed,  spreading feast,  spreading on bread,  rumor spreading,  redundancies spreading,  spreading out parts,  spreading parts on floor,  spreading houses,  spreading varnish,  oil spot spreading,  spreading work,  spreading butter,  truth spreading,  houses spreading
+board	1	boarding train,  boarding plane,  boarding ship
+board	3	provide lodging,  boarding traveler,  lady boarding,  offer accommodation,  boarding cousin,  accommodation
+board	2	eat hotel,  boarding at hotel,  sleep hotel,  boarding at place,  hotel guest,  lodge take meals,  boarding in house,  eat breakfast hotel
+board	4	boarding wall,  boarding up hole,  boarding up windows,  boarding windows
+kick	1	kicking ball,  kicking door down,  kicking the door,  kicking in face,  kicking man in face,  kicking foot
+kick	2	wander,  kicking heels,  old alive,  baby kicking legs,  man kicking around,  kicking around house,  be alive,  kicking about town,  be active,  wait
+shoot	1	shooting with gun,  shooting off mouth,  shooting bystander,  missiles shooting,  missiles were shooting,  shooting person,  shooting missiles,  shooting down,  shooting down proposal,  shooting back answer,  shooting down aircraft,  shooting down missile,  shooting with rubberbands,  shooting projectile,  shooting in head
+shoot	3	movie shooting,  camera photoshoot,  director shooting film,  shooting photo,  taking pictures,  shooting picture,  shooting film,  director shooting movie,  shooting movie,  make film,  shooting photos,  director set
+shoot	2	star shooting sky,  shooting dice,  pain shooting up leg,  move swiftly,  shooting into street,  dragon shooting flames,  price shooting up,  star shooting through sky,  motorcycle shooting down street,  move suddenly,  shooting glance,  shooting flames,  shooting through with band
+shoot	5	shooting basket,  score goal,  shooting hole-in-one,  shooting ball basket,  score basket,  golf hole-in-one game,  shooting craps,  score in game
+shoot	4	shooting drugs,  shooting hydrogen,  inject with,  shooting hydrigen into balloon,  shooting up drug,  shooting into veins,  inject,  injection shots,  shooting heroine,  shooting glucose
+shoot	6	shooting star,  measure altitude,  shooting sextant,  astronomer shooting star,  shooting altitude,  shooting Sirius,  using sextant,  astronomer shooting,  measure sextant,  shooting star with sextant
+hit	10	person go to sleep,  go to sleep,  hitting sack,  hitting hay,  sleeping
+hit	1	hitting with bullet,  hitting brother,  hitting with bat,  cat hitting tree,  strike with,  hitting ball to,  bullet hitting,  hitting ball
+hit	5	hitting ball,  hitting home run,  ball strike,  hitting field,  ball striking
+hit	4	people get drunk,  consume to excess,  hitting up,  hitting cookies,  hitting bottle
+hit	7	hitting on woman,  flirting man,  flirting woman
+hit	8	throw oneself to ground,  hitting dirt
+read	1	reading word,  person reading novel,  reading author,  reading maps,  look at newspaper,  reading book,  reading map,  person reading paper,  reading novels,  reading novel,  reading Chinese,  reading Braille,  person reading book,  look at books
+read	2	sign reading danger,  watch reading,  thermoeter reading,  passage reading,  theremometer reading,  have a specific wording,  thermometer reading degrees,  danger sign,  thermometer reading,  signs,  poem reading,  law reading
+read	4	reading out loud,  reading to children,  reading poem,  reading audition
+watch	1	watching person,  watching game,  watching tv,  people watching game,  watching,  watching for person,  people watching sports,  observe classroom,  observe,  watching game spectator,  watching dog,  watching market
+watch	3	monitor closely,  watching camp,  babysit,  shepherd watching flock,  watching flock,  watching baby,  watching over my stuff,  watching prisoner
+watch	2	watching out for opportunity,  guard patrol,  watching with binoculars,  watching out for pickpockets,  watching out for anyone
+break	2	breaking career,  breaking clock,  breaking alibi,  belt breaking,  breaking bank,  breaking code
+break	10	breaking into house,  burglar breaking into house
+break	13	people breaking dancing,  dancing on streets,  dancer breaking
+break	12	breaking to the left,  change direction,  turn around
+break	16.1	cookie breaking up,  breaking off arm,  iceberg breaking up,  breaking puzzle pieces,  breaking box open,  pinata breaking open,  breaking toy
+break	1	surf breaking on rocks,  breaking into pieces,  breaking glass,  breaking figurine,  dam breaking,  breaking boxers,  breaking foot,  figurine breaking,  breaking fire,  breaking banknote,  glass breaking,  fire breaking ranks,  breaking plate,  plate breaking,  surf breaking,  breaking set,  branch breaking,  breaking branch,  breaking tie
+break	16.6	thief breaking in,  enter unlawfully,  breaking into house,  thief breaking into house
+break	16.5	breaking through wall,  molar breaking through gums,  pierce wall
+break	16.4	breaking out in hives,  bread away from crowd,  convict breaking loose,  pigs breaking out,  breaking into acting,  war brakes out,  breaking out champagne,  anger breaking loose,  champagne bottle popping,  breaking into song,  horse breaking into gallop
+break	5	breaking horse,  train horses,  subdue
+break	7	story breaking,  whales emerging,  whale breaking,  news breaking,  dawn breaking,  breaking news,  storm breaking,  horse breaking
+break	8	pierce skin with needle,  pierce,  needle skin,  fish breaking water,  pierce skin,  breaking skin,  breaking skin with needle
+break	16.8	breaking down,  breaking up laughing,  collapse,  breaking up,  laughing,  crying
+fall	11	separate into pieces,  sphinx falling apart,  person falling apart,  glass break into pieces,  bread falling apart,  bread break into pieces
+fall	1	people falling down,  falling off,  barometer falling,  sleet falling,  vase falling,  rain falling,  snow falling,  falling back in chair,  branch falling from tree,  falling to knees,  snow falling down,  falling down,  jaw falling open,  descend
+fall	13	soldiers falling out,  military formation,  troops falling in,  troops move,  marching formations
+fall	9	falling down forward,  falling in direction,  falling off the stairs
+fall	7	be in downward position,  hills falling towards ocean,  fabric falling,  hair falling about shoulders,  dress falling off,  hair falling till shoulders
+cook	1	make food,  cooking food with heat,  boiling food,  cooking burgers,  barbecue,  boiling vegetables,  cooking meal,  cooking food,  cooking vegetables
+cook	2	burning under sun,  laptop burning,  burning laptop,  burning under sun beach
+slide	1	sliding off suit,  sliding on ice,  sliding beer,  gliding,  sliding down,  sliding dress,  sliding on bannisters,  cars sliding ice,  slipping,  tools sliding
+slide	2	sliding money,  sliding money into hand,  sliding past gate,  move deceptively,  move secretly,  move sneakily,  sliding into good grace,  sliding secretly,  sliding bottle into pocket,  thief hiding,  sliding into seat
+race	1	rush,  racing tricycle,  racing bicycle,  racing to higher ground,  move top speed,  run around house,  racing around,  run alone,  racing clock,  care for cure,  racing around house,  racing car,  rescuers racing,  racing through chores,  mind racing,  move speed
+race	3	engine racing,  racing engine,  speed engine
+race	2	compete in a racing,  racing competition,  racing championship,  racing drivers,  racing truck,  rats racing,  racing against clock,  people racing on road,  racing or competition,  compete racing
+mount	1	tv on wall,  consumer mounting pictures,  mounting camera,  frame mounting engine,  mounting work on cards,  mounting brackets,  mounting CD,  mounting chair
+mount	3	campaigning,  troops formation,  mounting play,  mounting expedition,  mounting army,  mounting campaign,  mounting exhibition,  mounting attack
+mount	5	person climbing a mountain,  mounting stairway,  mounting mountain,  climb gradually,  mounting hill
+mount	4	mounting on horse,  mountain wave,  ride the waves,  mounting bike,  stand on chair,  mounting horse,  mounting platform,  sit on bike
+mount	6	stallion mounting mare,  animal math with,  stallion mate with mare
+set	11	setting knife,  hone knives
+set	10	wolves attacking,  attack,  people attacking food,  wolf attack,  eat food,  dog attack,  attack dogs
+set	12	reproduce,  tree full of fruit,  trees fructify,  fructify
+set	1	write on paper,  setting clothes,  goldsmith at work,  setting rubies around,  setting purse on table,  setting bushes,  type setting by hand,  position
+set	2	sinking,  sun setting,  helicopter setting down,  helicopter landing,  sun setting on empire
+set	7	carpenter fixing nail,  carpenter setting nail straight,  setting hair,  solidify jelly gelatin,  gelatine setting
+set	9	sitting down,  person sitting down,  setting there
+shake	1	shaking off,  shaking baby,  chemist mixing in flask,  salt shaker pouring,  shaking salt,  hands shaking,  bartender shaking drink
+shake	3	shaking your finger,  shaking hands,  shaking fist,  dog shaking hand,  shaking finger,  shaking booty,  shaking head
+play	1	child playing,  playing hide-and-seek,  dog playing,  kids playing
+play	11	playing hooked fish,  fishing
+play	2	chess tournament,  club playing,  playing catcher,  playing cards,  playing opening,  playing football,  playing tennis,  playing backhand,  playing club
+play	5	playing lead,  playing three nights,  playing innocent,  playing dead,  playing helpless,  act a role,  pay villain,  playing Evita,  perform a role,  perform in a theatre,  theatre playing
+play	4	playing at recital,  playing record,  stereo playing,  radio playing,  playing guitar,  band playing,  radio playing song,  playing music,  playing in a band,  playing an instrument,  stereo playing song
+bounce	1	children bouncing on bed,  car bouncing off tree,  bouncing on trampoline,  bouncing ball,  boy bouncing ball,  hair bouncing,  bag bouncing,  car bouncing off,  bouncing on bed,  bouncing baby on knee,  ball bouncing
+bounce	3	move energetically,  bouncing into room,  move cheerfully,  bouncing to feet,  walk cheerfully,  children bouncing,  bouncing up to guests
+bounce	6	batter bouncing out,  batter bouncing,  baseball bouncing,  baseball hit ball infielder
+jump	1	horse jumping,  puppy jumping,  jumping from seat,  jumping around,  jumping off,  jumping back and forth,  jumping back on horse,  tiger jumping hoop,  person jumping,  horse jumping fence,  jumping off bridge,  dog jumping,  jumping in car
+jump	2	train jumping off tracks,  leave the rails unexpectedly,  door jumping track,  train jumping track,  plan jumping track
+jump	5	jumping car,  jumping Honda
+jump	4	assault,  muggers attacking,  mugger assault
+wrap	1	wrapping around body,  wrapping the baby,  wrapping museum in plastic,  wrapping presents,  wrapping flag around body,  wrapping blindfold around eyes,  wrapping blindfold,  wrapping up baby,  wrapping in plastic,  wrapping baby
+wrap	2	wrapping paper around dowel,  wrapping handlebar,  wrapping paper,  wrapping rope,  wind around,  wind around yarn,  wrapping yarn,  wrapping the rope
+wrap	4	standing in circle game,  wrapping ball around,  guide around
+pass	12	dog pooping,  excrete,  passing kidney stone
+pass	13.11	rub,  rub with circular motion,  wipe,  passing hands over cloth
+pass	1	passing by,  passing professor,  passing by people,  passing site,  horse passs front runner,  passing mind
+pass	4	passing car,  pPassing ball with hands,  passing ball,  passing house,  passing papers,  passing plate,  passing files,  passing farm
+pass	7	passing thread through needle,  passing fingers over surface,  hand sewing needle thread,  guide through
+pass	6	bridge extend,  bridrge passing over river,  bridge passing
+pass	13.5	black out,  fainting person,  passing out
+pass	13.2	broadcast,  Passing Notes,  newsreader reading news,  passing news,  teacher passing out exam,  passing message
+pass	13.1	make a journey,  plane over city,  car passing by,  passing through enemy line,  passing through chemical,  plane passing over city,  army passing across dessert,  glacier passing over land,  time passing on,  passing through valley
+slice	1	slicing potatoes,  slide lungs,  slicing cantaloupe with knife,  slicing liver,  helicopter slicing,  slicing pie,  cut apart,  slicing shirt,  slicing heart,  slicing cantaloupe,  snake slicing,  cutting pie with knife
+slice	2	hit golf ball,  slicing ball,  hitting a ball,  hit ball spin slicing,  slicing golf ball
+lead	2	leading tournament,  leading word,  travel in front of,  leading parade,  leading troops,  precede,  be first
+lead	5	leading donkey,  leading horse,  guide people,  walking with horse,  leading dog
+lead	7	running wire,  place wire,  run wire
+lean	1	ladder leaning against wall,  incline,  leaning on furniture,  leaning on bookcase,  inclined position,  leaning over banister,  leaning against wall,  leaning back in chair
+lean	2	leaning bike left,  leaning bike,  leaning fork against wall,  leaning against wall
+paddle	1	canoe paddling,  paddling rowboat,  paddling canoe,  paddling lifeboat,  with paddling,  rowing team boat,  paddling boat,  paddling boat to shore,  paddling for gold
+paddle	3	spank brat,  paddling punishment,  parents spanking kids,  spank,  parents spank children
+paddle	2	kids paddling in pool,  dog paddling,  paddling around lake,  paddling around shallow end,  kids swimming,  paddling in pool
+paddle	4	paddling glaze,  paddling product,  paddling vat,  stir with paddling,  stirring the paint,  person stirring pot,  paddling paint
+run	11	make animals running,  dogs running deer,  running deer,  running horses,  running cattle,  running dogs
+run	13.15	photocopy,  running off copies,  using a copy machine
+run	12	dress unravel,  unravel,  heel unravel
+run	13.11	running down figures,  running down suspect
+run	13.12	scan list,  person looking at paper,  scan
+run	13.13	accident,  running into bench,  accident running into
+run	1	running marathon,  running coast,  person running,  running waters,  running ball touchdown,  running around,  running miles,  man running,  dog running,  move quickly,  dogs running,  children running,  people running
+run	13.14	make people running,  running behind people
+run	5	river running,  flowing river,  color running,  nose running,  runny nose,  melting wax,  wax running,  liquid flow,  melting icecream
+run	4	running fingers,  running fingers through hair,  running eyes
+run	6	showing ads,  running ad,  running plan by director,  running through show,  story running
+run	13.6	killed by accident,  car running down,  running over dog,  running down by car,  animal killed by accident,  running over cat,  running over squirrel
+run	8	running fever sick,  running danger health
+run	13.2	inflation running away,  running off with collection,  escape control,  running off with friend,  running away from home,  running off
+run	13.3	water flow over bucket,  water running down,  sewage running off,  water flow over glass,  bathtub running over,  gasoline running out
+run	13.1	person running,  kids running around,  dog running by,  running out of room,  dog running,  kids running
+reach	1	arrive at state,  reaching land,  reaching can,  plane reaching speed,  reaching into wallet,  sunlight reaching wall,  reaching conclusion,  attain state,  smell reaching nostrils,  team reaching finals,  water reaching doorstep,  reaching into pocket,  reaching into,  reaching goal
+reach	3	pass on,  transfer,  give something to someone,  reaching person shield,  pass,  give something
+reach	5	extend,  water reaching,  reaching into,  reaching sky,  reaching into courtroom,  reaching out to,  reaching out
+reach	4	reaching for something,  reaching for,  reaching for notes,  reaching for object,  reaching for rope
+put	1	putting date on calendar,  putting name above title,  putting player on team,  putting food on table,  putting tray on table,  place putting,  putting player first place
+put	7.30	refugee camp,  putting up refugees
+put	7.17	putting out fire,  people extinguishing fire,  putting lights out,  extinguish
+put	7.28	construct boat,  construct house,  putting up house,  construct ship
+put	7.12	write poem,  putting down,  write,  person writing poem,  person filling forms
+put	7.13	land an aircraft,  putting down plane,  plane landing,  landing an aircraft
+put	7.25	gain weight,  augment,  putting on weight
+put	7.24	preserve hay in storage,  putting in hay,  putting up preserves
+put	7.26	putting on coat,  putting on clothes,  Putting On a Shirt,  Putting On a Sweater
+put	7.18	putting forward foot,  putting out hand
+put	7.19	putting in install,  installing equipment
+put	7.2	putting down basket,  putting books away,  putting back camera,  putting away books,  putting up sign,  putting in key,  putting camera back,  putting down passengers,  putting on paint
+put	7.3	carry out fight,  putting on performance,  putting up fight,  carry out show
+put	7.6	putting criminal behind bars,  putting away murderer,  be in prison,  prisoner behind bars
+put	7.8	putting cat to sleep,  euthanize dog,  euthanize pet,  putting dog to sleep,  euthanize cat,  putting dog away,  euthanize,  putting pet down
+put	7.9	someone gorging food,  putting away hotdogs,  eat a lot
+sing	1	singing in choir,  bird singing,  person singing,  choir singing,  singing happy birthday,  singing orchestra,  singing,  birds singing
+sing	2	kettle singing,  whistling sound from cooker,  pressure washing,  steaming tea kettle,  bullet singing
+throw	1	horse throwing rider,  throwing money,  throwing a punch,  throwing punch,  throwing overboard,  throwing ball,  throwing dice,  throwing brick
+throw	3	throwing level back,  throwing switch,  throwing car into reverse
+throw	4	throwing spell,  searchlight beam,  fireplace emit heat,  fireplace heat,  radiate,  emit
+throw	7	throwing pots,  throwing pottery,  potter throwing vase,  throwing vase,  throwing pot
+throw	6	throwing a farewell party,  throwing a huge party,  throwing fit,  department throwing party,  hold event,  throwing get-together
+change	1	face alter,  face changing
+change	3	changing seats,  changing dance partners
+change	2	changing bed linens,  changing doctors,  changing name,  changing sheets,  changing punctured tire,  changing tires,  changing clothes
+change	4	changing trains,  changing planes,  changing in Atlanta,  changing buses,  changing in Chicago
+sniff	1	sniffing flower,  dog sniffing,  dog sniffing bag,  Smelling Wine,  person smelling plant,  sniffing basil
+sniff	3	sniffing disdain,  angry man,  express disapproval,  angry woman
+sniff	2	sniffing glue,  sniffing drugs,  sniffing cocaine
+sniff	4	police investigate,  police sniffing for evidence,  sniffing out trouble
+chop	1	chopping with hatchet,  chopping wood,  chopping away,  chopping meat,  chopping vegetables with knife,  boat chopping,  man chopping wood
+chop	5	make a hole,  shape by chopping,  chopping hole
+chop	4	chopping opponent,  chopping player,  ball striking
+chop	6	doing card trick,  hand chopping
+turn	11	turning to police,  hand over,  turning over to police,  turning in papers,  turning in performance,  turning in thief,  turning in paper
+turn	10	sprain knee,  twisting ankle,  sprain,  sprain ankle,  twisting knee
+turn	12	get up from sleep,  getting up from sleep
+turn	14	people gather rally,  turning out for party,  turning out for rally,  people gather party
+turn	1	turning down,  turning soil,  turning cartwheels,  turning cake onto plate,  wheels turning,  vehicle change direction,  change direction,  turning page,  car turnaround,  turning key in lock
+turn	2	light turning green,  weather turning nasty,  undergo a transformation,  milk turning,  turning 40,  water turning into ice,  leaves turning,  turning frog into prince,  turning garden into paradise
+turn	5	turning on,  turning out lights,  turning off,  turning off switch,  turning on light switch
+turn	7	finding something,  discover something,  search turning up nothing,  turning up box
+turn	9	turning wood,  turning pots,  potter throw pottery,  turning legs,  throw pottery,  shape by rotating
+turn	8	factory turning out cars,  produce
+stand	7.14	people standing by,  person standing still,  police standing by
+stand	7.12	ship out of shore,  ship away from shore
+stand	1	person standing upright,  hair standing up,  standing up,  standing on legs,  standing upright
+stand	3	standing tall,  standing accused,  standing empty,  standing corrected
+stand	7.1	standing back
+stand	7.7	standing still,  person standing still
+stand	7.8	standing shelf up,  hair standing up,  standing up,  get up,  arise
+swing	1	gate swinging,  swinging about,  swinging from tree,  kids swinging from tree,  play swinging,  swinging across chasm,  car swinging around corner,  move in a curve,  swinging partner around,  swinging back and forth
+swing	2	hanging lightbulb,  hanging chime,  swinging bulb,  swinging
+swing	7	sweeping arm movement,  sweeping arm,  hit with arm movement,  arm movement,  swinging at,  swinging at referee
+climb	1	climbing ladder,  rates climbing,  value climbing,  climbing mountain,  climbing up hill,  spider climbing,  climbing up list,  sales climbing,  clumb up hill,  climbing up waterspout,  climbing upward,  temperature climbing
+climb	3	climbing ladder,  climbing on mound,  climbing mountain,  climbing mount,  climbing down ladder,  climbing over me,  climbing boat,  climbing furniture,  climbing down mountain,  climbing on board,  climbing on back,  climbing horse,  climbing over furniture,  climbing down from stand,  baby climbing on furniture,  climbing in boat,  climbing on bandwagon
+climb	2	climbing path,  riad climbing,  path climbing,  path meander,  climbing trail,  train climbing
+feed	1	feeing kids,  feeing animals,  feeing guests,  serving food to guests,  person feeding kids,  feeing chicken,  preson feeding animal
+feed	2	feeing information,  feeing logs,  feeing data,  throw logs into fire,  feeing images,  feeing carrots,  feeing lines
+feed	5	dog eat,  dog feeing,  eat,  dog fed meat,  pigs fed at trough,  pig eat,  pig feeing
+feed	6	road feeing into freeway,  road feeds into freeway,  river feeds into lake
+point	1	pointing the way,  pointing,  pointing to gun,  pointing direction sign,  pointing finger,  pointing towards something
+point	3	highlight text,  mark text,  underline text
+point	2	pointing dart,  person pointing gun,  pointing horse,  pointing ship,  gun pointing,  pointing mouth,  person throwing darts,  pointing into wind,  pointing criticism
+point	5	pointing walls,  pointing bricks,  person repairing chimney bricks,  person repairing bricks,  repair bricks,  pointing chimney
+point	4	pointing toes,  pointing tip,  pointing brush,  shape into a pointing,  ballerina on pointe
+float	1	floating down river,  floating log,  floating logs,  floating on liquid,  floating boats floating ship,  bottle floating,  floating boats,  floating on river,  clouds floating
+float	3	floating across stage,  floating about,  floating around,  ballet dance floating,  move gracefully ballet,  floating around room
+float	5	floating wall,  make surface smooth,  floating plaster,  make surface level,  floating out wall,  plastering contractors,  smooth cake batter,  floating surface
+walk	10	walking in on person,  walking in on row,  walking in on robbery,  interrupting people
+walk	1	walking with limp,  walking the plan,  person walking,  walking tightrope,  walking with crutches,  cross by foot,  walking in park,  people walking,  person walking on rope,  walking park,  walking garden,  amble,  walking miles
+walk	2	walking to car,  walking horse,  man walking horse,  walking the dog,  walking dog,  walking to door,  walking cat
+walk	4	walking out on children,  walking out,  walking out of shop,  customer walking out,  walking out on husband,  workers strike
+walk	6	walking with bases loaded,  baseball walking,  baseball player walking,  walking batter
+walk	9	beat up,  abuse,  person abusing wife,  wife abusing husband
+wash	1	washing face,  washing off paint,  washing up,  clean washing,  washing dirt,  clean,  washing towels,  washing hands,  washing blood,  cat clean
+wash	2	body washing down river,  washing down river,  river washing ravine,  rain washing out game,  Washed Up On Shore,  river washing away bridge,  water washing minerals,  waves washing shore
+wash	5	food with drink
+wash	4	apply coating of paint,  apply paint,  washing with paint
+brush	1	brushing hair,  brushing rub clean,  rub,  crush crumbs from shirt,  groom,  brushing hair from jacket,  brushing suit,  brushing crumbs,  brushing the suit
+brush	2	brushing wall,  sweep the floor,  brushing bread with butter,  skirt brushing floor,  brushing sugar on cake,  touch lightly,  brushing elbows with boss
+carry	9	carrying boy,  carrying girl,  woman expecting,  carrying to term,  pregnant woman,  carrying twins,  be pregnant
+carry	1	person carrying boxes,  carrying argument,  problems carrying over,  carrying war into province,  person carrying books,  person carrying bag,  carrying bags,  sound carrying,  carrying total,  carrying credit,  rifle carrying,  voice carrying,  ambulance carrying athlete,  carrying number,  carrying ball,  carrying plankton,  carrying forward balance,  carrying news,  carrying over budget,  news carrying
+carry	3	take care of person,  support,  support weight,  support beams carrying roof,  carrying burden,  carrying weight
+carry	2	carrying scars,  payroll carrying,  news carrying press conference,  carrying water,  crime carrying penalty,  opinion carrying weight,  face carrying frustration,  loan carrying interest,  carrying insurance,  carrying cause,  carrying holder,  carrying smile,  restaurant carrying menu,  carrying cane
+open	1	someone opening a door,  door opening,  opening door,  hand opening box,  opening hood,  opening browser,  opening file
+open	3	path lead to,  opening to terrace,  opening into field
+open	5	troops firing with gun,  opening fire,  gun shooting
+open	4	unfold wings,  opening arms,  person with opening arms,  unfold arms,  opening wings,  opening up fingers,  bird flying wings
+speak	1	people chatting,  speaking with couples,  speaking of man,  speaking of person,  heart speaking,  music speaking,  writer speaking,  speaking in whispers,  children speaking,  people talking,  speaking Spanish,  communicate through speech,  writer talk
+speak	2	speaking at conference,  speaking at dinner,  give seminar,  give fromal speech,  speaking in public,  give a formal lecture,  give lecture,  give formal lecture,  give a formal speech
+bite	1	dog biting,  crocodile biting,  biting lip,  mosquito biting,  biting piece,  bug biting,  biting off arm,  biting meat
+bite	3	biting hand,  wind biting,  biting hands,  mailbox biting,  biting teeth,  insect biting,  that it pains you
+bite	2	knife cut,  knife biting,  knife flesh,  knife cake
+bite	5	accept bait,  fish biting,  biting bait,  bait fish,  fish biting bait,  accept offer
+bite	4	utter sharply,  biting out curse
+overlook	3	overlooking work,  supervise children,  manage people at work,  supervise people,  supervise staff,  supervise
+overlook	2	overlooking view,  overlooking parking lot,  office overlooking parking lot,  office overlooking view
+paint	1	make painting,  make painting art,  artist painting on canvas,  artist painting,  art class painting,  painting chair art
+paint	2	man painting ceiling,  painting house,  painting with brightening agent,  man painting wall,  painting room,  painting ceiling,  painting wall,  coat with liquid,  man painting house,  coat with painting,  painting gutters,  painting trim
+serve	8	wind with,  wind with wire,  serving wire,  serving yarn,  serving forestays,  wind with yarn,  serving with yarn
+serve	5	serving time for robbery,  be in prison,  serving twenty years,  serving prison sentence,  serving full term,  serving in prison,  locked up,  serving time,  locked up in prison,  spend time in prison
+serve	4	hand out food,  waiter serving food,  serving meal,  serving meals,  hand out,  dish out food,  serving food,  dish out,  sheriff serving papers,  serving up entertainment,  serving summons,  serving drink
+serve	7	serving tennis,  serving ace,  serving table tennis,  tennis serving,  tennis star serving,  serving erratically,  serving volleyball,  serving ball,  serving badminton
+serve	6	mate with,  stallion serving mare,  ox mate with cow,  mate with animal,  dog mate with dog,  stallion mate with mare,  stallion mates
+lift	1	raise,  lifting bike,  lifting boxes,  lifting book,  lifting eyes,  lifting hand,  people carrying book,  holding bicycles up,  floor is lifting
+lift	3	rid of,  fog lifting up,  take away,  fog lifting,  remove
+lift	2	plane lifting off,  sales lifting off,  planes lifting off,  flight take off,  plan lifting off
+lift	4	shoplifting,  lifting paragraph,  stealing in shop,  lifting money,  lifting cattle,  stealing money,  lifting property,  lifting text
+lift	7	lifting potato,  lifting bulb,  digging up beets,  digging potatoes,  lifting beet,  lifting pasta from pot
+lift	9	lifting brow,  suture lifting face,  perform cosmetic surgery,  plastic surgery gone wrong,  lifting face,  lifting skin
+lift	8	lifting climbers,  lifting food,  Container Lifting Crane,  helicopter lifting something
+stick	1	hair sticking,  door sticking,  sticking seal on document,  sticking labels,  stay in place,  adhere,  wallpaper sticking,  sticking about,  sticking around,  sticking seal,  sticking coat,  sticking label on envelope,  sticking to wall,  sticking on problem
+stick	2	pierce,  ticket in ticket,  sticking hand out window,  sticking needle,  sticking reference to book,  sticking photo onto board,  nail sticking out,  sticking needle into finger,  poke into,  sticking photo onto,  protrude,  sticking ticket,  lettering sticking out,  sticking hand out
+catch	1	catching in traffic,  catching rain water,  catching rainwater,  catching ball
+catch	2	student copying in exam,  catching child,  discover in the act,  catching senator,  catching heart,  catching rabbit,  catching eating candy,  catching out student,  catching spirit,  catching shoplifting,  catching thief
+catch	4	catching up with,  running to catching train,  catching up with friend,  catching train
+catch	7	catching fire,  forest fires,  spread
+catch	6	catching game,  watching baseball game,  attend an event,  attending event,  catching movie,  catching show
+catch	9	hitting person,  punch catching in stomach,  punching person on face
+line	1	people lining,  be in lining,  stand in a lining,  run along,  lining route,  sit in lining
+line	2	checkmarks lining up,  form a lining,  lining up troops,  waiting in lining,  lining up on lining,  results lining up
+line	4	sorrow lining face,  draw lining,  lining pencil
+hold	1	holding extinguisher,  holding cookie,  beam holding up roof,  holding bowl,  nail holding picture,  holding out hand
+hold	8	holding reception,  social event,  holding meeting,  meeting,  event,  holding social event
+hold	9	holding ears,  hands over ears,  hands over nose,  holding nose
+eat	1	eating bugs,  eating meat,  eating with hand,  eating for dinner,  eating food,  eating apple,  eating risotto,  eating out of hand,  eating pasta
+eat	3	mouse eating into,  thing eating at brain,  corrosion,  acid eating surface,  corrode,  jobs eating into time,  erode rust,  eating away freedom,  eating away inside,  mouse eating into box,  rust eating into chrome,  erosion,  eating into
+fly	1	move through air,  flying through fog,  pilot flying,  plane flying,  plane flying by,  flying kite,  flying plane,  to flying,  flying bird,  flying on,  nation flying flag,  float in air,  flying flag,  pilot flying contact,  flying flowers,  flying the Atlantic,  flying to city
+fly	3	hit a baseball,  hit flying baseball,  flying to field baseball,  hit flying,  hit a ball
+fly	2	flying off handle,  door open,  flying about,  hopping,  move quickly
+pull	1	pulling oars,  man pulling cart,  pulling in money,  pulling together thoughts,  pulling weeds to hand,  pulling wagon,  pulling building down,  pulling rope,  dentist pulling teeth,  pulling at cuffs,  pulling trigger,  pulling teeth,  pulling off petals,  pulling down building,  pulling crowd,  pulling weeds,  pulling out gun,  pulling off cloths,  pulling down figures,  pulling back strong,  pulling knife,  people pulling rope,  pulling out rabbit,  pulling gun,  man pulling wagon
+pull	2	pulling to right,  pulling together,  pulling the car,  train pulling in,  pulling ball,  pulling into station,  pulling over car,  cap pulling over,  pulling out of project,  car pulling,  pulling away from curb,  regiment pulling back,  pulling car to curb,  pulling up short,  call pulling up,  limo pulling away,  train pulling into station,  pulling up to curb,  pulling ahead
+pull	6	tearing apart meat,  pulling apart bread,  tear chicken,  tearing with hand,  tear chicken strips
+look	1	looking for phone,  looking at life,  examine,  looking up,  looking at moon,  looking into allegations,  looking out for pickpockets,  dog staring at cat,  looking out,  looking on,  looking up number,  looking on dictator,  regard,  looking on affair,  looking upon as best,  people looking at screen,  looking back on accomplishment,  looking for faults,  person looking at phone,  looking at woman,  looking for volunteers,  dog looking at cat
+look	2	baby looking cute,  looking like clown,  looking serious,  car looking,  numbers looking fishy,  baby looking adorable,  looking like a clown,  car looking old,  looking devotion
+ride	10	riding herd,  walk cattle,  drive horse,  drive cattle,  riding cattle
+ride	1	riding horseback,  riding train,  riding truck,  riding car,  riding on donkey,  riding mare,  train riding,  riding motorcycle,  person riding a truck
+ride	3	riding a wave,  surfer riding wave,  riding freeway,  riding the boat,  ship riding,  boat riding on wave
+ride	2	riding to poverty,  riding to wedding,  Giving a Car Ride,  giving a riding,  riding to hospital
+ride	7	moon riding high,  boats at anchor,  riding at anchor,  ship at anchor
+ride	9	bull riding cow,  copulate with,  horse coulate with mare,  bull copulate with cow
+pour	1	pouring oil,  pouring water,  pouring sugar,  pouring down wine,  pouring glass,  pouring sugar into bowl,  pouring into bowl,  pouring honey,  pouring wine,  pouring out wine,  pouring juice
+pour	2	ash pouring,  sweat pouring down face,  car pouring out fumes,  bus pouring out fumes,  lava pouring,  water pouring over floor,  blood pouring from,  billowing smoke,  bleeding blood
+pour	4	pouring rain,  pouring down rain,  rain heavily,  rain pouring down,  rain pouring,  pouring down,  rain pouring outside
+drill	1	make a hole,  drilling out filling,  drilling hole in plank,  drilling hole,  make a hole drilling
+drill	3	drilling ball into field,  hit forcefully,  drilling home run,  drilling guy,  hit ball,  player hitting ball,  hit ball field,  hit forcefully ball
+display	1	exhibit,  displaying enthusiasm,  displaying photograph,  show in public,  displaying piece museum,  smirk displaying character,  smirk displaying contempt,  displaying intellect,  displaying humor,  peacock displaying feathers,  displaying contempt,  smirk displaying teeth,  exhibit piece museum,  museum displaying pieces,  exhibit museum,  show smirk,  displaying photographs,  displaying emotion,  roses displaying hardiness,  roses displaying adaptability,  displaying smirk,  express in public
+display	2	show graphics,  show data,  monitor displaying image,  show messages,  iPod displaying icon,  digital displaying boards,  phone displaying image
+fill	1	filling container,  pool filling with water,  filling hole with dirt,  filling water,  liquid filling container,  filling beaker with water,  theatre filling up,  filling pool
+fill	4	filling in blanks,  filling in name,  people filling forms,  filling out form,  filling out questionnaire
+fill	7	body filling out,  become larger,  filling out contours,  become more substantial
+fill	6	drawing colors kids,  filling in page,  filling in colors
+sit	1	sitting next to,  person sitting on chair,  sitting,  sitting back in chair,  sitting up straight,  sitting down,  be seated,  sitting on shore,  dog sitting,  sitting at table,  dog sitting down
+sit	2	pizza sitting on table,  encyclopedia sitting on shelf,  book sitting on shelf,  occupy a particular location,  villages sitting at valley,  coat sitting well
+sit	7	baby-sit children,  sitting kids,  sitting her kids,  babysitter,  sitting babies
+sit	6	ride animal,  sitting horse,  ride horse,  ride a horse,  ride an animal,  sitting on horse
+perform	1	children test school,  performing at wedding,  execute action,  wedding performers,  performing feat,  children reading,  underperform at reading,  performing wedding ceremony,  execute deed,  performing duties
+perform	2	performing role,  performing play,  performing symphony,  performing art,  re-enact
+cross	1	person crossing road,  crossing road,  crossing the bridge,  horses crossing,  crossing bridge,  trees crossing stream,  crossing stream
+cross	2	crossing path,  fate crossing path,  crossing ts,  intersect,  crossing in hallway,  routes crossing,  crossing paths
+cross	4	crossing legs,  crossing arms,  crossing fingers
+cross	6	praying,  crossing himself,  crossing my heart
+write	1	writing a book,  writing symphony,  person writing a letter,  writing novel,  writing piece,  writing on paper,  writing letter,  writing memo,  writing copy,  writing email
+write	3	writing on disk,  writing disk,  store on computer,  writing on computer,  saving to flash drive
+write	2	writing in code,  writing with alphabet,  writing down number,  erase,  writing name,  writing marks,  read handwritting,  writing character on paper,  writing chinese characters
+write	4	writing code,  software engineer coding,  create code,  create computer program,  writing lines,  programmers code computer,  computer programming,  writing procedure
+write	7	voting in ballet box,  voters writing in candidate
+write	8	writing up contract,  writing out ticket,  writing a ticket,  person filling a form,  writing out check,  fill in a form
+mix	1	mixing business and pleasure,  mixing pride and problems,  mixing food and tv,  oil and water mixing,  mixing water,  mixing flour in bowl,  mixing in nuts,  mixing ingredients,  mixing soundtrack,  mixing drinks,  combine qualities,  blend ingredients,  combine activities,  combine things,  mixing alcohol and medication,  mixing oil,  mixing brown and gold,  mixing cement,  mixing joy and worry,  mixing by hand,  fix flour and fruit
+mix	2	card shuffling,  mixing up twins,  assemble without order,  mixing cards,  mixing up words,  mixing me up,  mixing up dates
+tie	1	tying bow,  tying to past,  tying to desk,  tying up boat,  tying boat,  tying hands,  tying flies,  tying laces,  tying knot,  tying to operating system,  tying up newspapers,  tying down sail,  tying prisoners,  tying up traffic
+tie	5	person drunk at party,  drink,  getting drunk,  getting wasted,  drunk party,  get drunk,  drunk person
+tie	4	person shouting at others,  two people arguing,  attack,  animals attack
+chase	1	policeman chasing,  person chasing,  chasing,  chasing storml,  dog chasing person
+chase	3	chasing out women,  chasing away cold,  children chasing,  cause to go away,  chasing away pigeons,  chasing out children,  chasing away animals,  chasing away blues,  drive away,  chasing away children
+chase	4	chasing silver,  cut furrows,  chasing metal for jewelry,  cut grooves
+stir	1	children run around,  wind fly skirt,  hurricane,  stirring skirt,  child stirring
+stir	3	stirring coffee,  move in circular motion,  stirring into batter,  stirring paint,  stirring tea,  stirring with spoon,  stirring with br
+draw	1	pull,  pull child close,  pull shades,  person drawing wagon,  ox drawing plough,  ox pull grist,  pull wagon,  pull glove
+draw	9	drawing chicken,  cut up chicken,  disembowel,  pull apart chicken meat,  pull apart
+draw	5	running Hand through hair,  drawing wire,  pull hair,  drawing hair through fingers,  drawing glass
+draw	4	night drawing down,  train pulling into station,  drawing back in horror,  horse drawing away,  drawing up on deck,  ship drawing to shore,  drawing close to person,  days drawing to close,  drawing towards shore
+draw	6	drawing up will,  drawing pictures,  someone drawing,  create pictures,  drawing up blueprint,  drawing lines,  drawing plan,  drawing up deed
+drink	1	drinking lemonade,  person drinking juice,  drinking milk,  roses drinking water,  drinking juice,  drinking water
+drink	2	drinking alcohol,  drinking beer,  drinking whiskey,  drin wine,  drinking smoke,  excessive alcohol intake
+drink	4	toast,  drinking to that,  drinking to happiness,  wedding toast,  drinking toast,  dinner party toast
+hang	1	gallery hanging paintings,  curtain hanging,  hanging wallpaper,  door hanging,  necklace hanging around neck,  hanging coat,  hanging decorations on tree,  hanging picture,  hair hanging,  picture hanging,  pheasant hanging,  hanging decorations
+hang	3	branch hanging with snow,  hanging head,  bend head downwards,  droop head,  bend downwards
+hang	2	rope around neck,  hanging woman,  hanging person,  person being hanging,  hanging with sheet,  hanging witchcraft,  woman hanging
+hang	4	fog hanging over valley,  uncertainty hanging over project,  jury hanging,  future hanging in balance,  worry hanging over life,  time hanging
+hang	7	hanging out,  spend time with family,  hanging out with friends,  hanging out at cafe,  hanging out cafe,  hanging around bars,  hanging out with friend,  spend time with friends
+lay	1	laying head against window,  laying rumor to rest,  laying head,  laying baby in cradle,  laying watch,  laying hands on,  laying baby,  laying watch to ear
+lay	3	goose laying eggs,  hens laying eggs,  hen laying eggs,  laying eggs,  deposit as eggs
+lay	2	laying trap,  laying fire,  laying brick,  laying foundation,  laying track,  laying trail,  laying plan,  laying plans
+light	1	illuminate,  volcano lit up sky,  brighter lighting,  lamp lighting,  child face lighting up,  torch lighting,  sky lighting
+light	2	ignite,  lighting fire with stick,  begin to smoke,  lighting coal,  coal lighting,  barbecue coal fire,  lighting up cigarette,  barbeque coal burning,  lighting fire,  lighting cigarette,  striking match fire
+light	6	lighting up outside,  lighting cigar,  smoking cigar,  people lighting cigarettes,  lighting up cigarette,  start smoking cigarettes,  lighting up cigar,  lighting cigarette,  smoking cigarettes
+gather	1	gathering wood,  gathering laundry,  gathering child,  gathering fabric
+gather	3	accumulate,  dust gathering,  clouds gathering,  car speed,  dark storm clouds
+gather	2	gathering at bar,  congregate together socially,  public gathering,  heads gathering,  gathering around water cooler,  social gathering
+gather	5	draw and bring closer,  gathering shawl
+cover	1	covering head,  covering child,  covering with blanket,  grass covering grave,  covering meat with cheese,  covering in,  covering with glory,  shadow covering water,  surface covering by water,  characters covering in mystery,  covering child with blanket,  bandages covering in blood
+cover	3	officer covering floor,  provide covering,  soldier guarding people,  protect partner,  military troops covering field,  protect guard
+cover	6	stallion covering mare,  mating,  stallion mating mare
+drive	1	driving truck,  driving car,  driving across country,  travel vehicle,  driving around in truck,  driving around corner,  driving around
+drive	2	dog driving in cattle,  production driving economy,  consumption driving economy,  driving mad,  passion driving,  driving out bird,  driving back army,  driving prices higher,  driving up prices,  innovation driving business,  driving away demonstrators,  driving off bird,  driving prices lower,  driving into sea
+drive	5	driving stake,  driving tunnel through mountain,  driving in screw,  driving into tunnel,  driving through bedrock
+drive	4	driving golfball,  strike a golf ball,  driving ball into field,  strike a ball,  boxer left punch,  driving into field
+drive	7	hunting bear,  driving forest,  people hunting animals,  hunting,  search for game hunting
+drive	6	steam power,  machine electricity,  electricity powered,  steam powered
+clean	1	cleaning teeth,  person cleaning house,  cleaning wound,  cleaning house,  dentist cleaning teeth,  cleaning rug,  cleaning fingernails
+clean	3	gambling,  losing in gambling,  losing at poker table
+clean	2	cleaning pantry,  cleaning trees,  empty food,  cleaning platter,  empty plate of food
+clean	4	remove feathers,  remove shells,  remove pits,  remove skin,  remove husks,  cleaning rice,  cleaning grain,  cleaning fish,  cleaning turkey
+push	1	pushing against wall,  person pushing table,  pushing table into corner,  pushing body to limits,  person pushing cart,  person pushing something
+push	3	pushing perfume,  salesman selling to couple,  pushing drugs,  pushing model,  pushing computer
+push	5	pushing during labour,  woman pushing hard birth,  pushing birth,  woman giving birth
+push	6.2	tooth pushing through gums,  volcano eruption,  hair pushing out hat,  erupt,  tooth pushing through gum
+push	6.1	pushing away,  pushing down,  pushing wall,  person pushing another,  pushing up on hatch,  person pushing a person
+push	6.3	pushing on to house,  pushing the crowd,  pushing forward to front
+talk	1	talking of old days,  talking shop,  computer talking back,  talking turkey,  talking to each other,  talking about details,  converse,  talking back,  talking on phone,  baby talking,  talking over issue,  talking,  talking about book,  baby starts talking,  talking about information,  two people speaking,  people talking,  have conversation,  children talking,  talking to firms
+talk	3	lecture audience,  talking at symposium,  lecture to audience

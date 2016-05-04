@@ -10,6 +10,8 @@ gold_all_final_lemma_image_sense_annotations.csv: This file has verb and verse s
 
 verse_visualness_labels.csv: This file has visualness label annotated for OntoNotes senses of 150 visual verbs (commonly observed in image descriptions and image action datasets)
 
+ense_specific_search_engine_queries.csv: Human annotated sense specific search engine queries to retrieve images related to visual senses.
+
 License
 -------
 This work is licensed by the University of Edinburgh under a Creative Commons Attribution 4.0 International License.  
