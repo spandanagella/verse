@@ -6,11 +6,14 @@ Spandana Gella, Mirella Lapata, and Frank Keller. 2016. Unsupervised Visual Sens
 
 Note that this repository just includes the Verse dataset annotations and not the images.
 
-gold_all_final_lemma_image_sense_annotations.csv: This file has verb and verse sense annotated for every image in the verse dataset.
+* [gold_all_final_lemma_image_sense_annotations.csv](../master/gold_all_final_lemma_image_sense_annotations.csv): 
+  This file has verb and verse sense annotated for every image in the verse dataset.
 
-verse_visualness_labels.csv: This file has visualness label annotated for OntoNotes senses of 150 visual verbs (commonly observed in image descriptions and image action datasets)
+* [verse_visualness_labels.csv](../master/verse_visualness_labels.csv): 
+  This file has visualness label annotated for OntoNotes senses of 150 visual verbs (commonly observed in image descriptions and image action datasets)
 
-ense_specific_search_engine_queries.csv: Human annotated sense specific search engine queries to retrieve images related to visual senses.
+* [sense_specific_search_engine_queries.csv](../master/sense_specific_search_engine_queries.csv): 
+  Human annotated sense specific search engine queries to retrieve images related to visual senses.
 
 License
 -------
