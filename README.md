@@ -2,7 +2,7 @@ The files in this repository contain verb and sense annotations for images taken
 
 Creation of the Verse dataset and the unsupervised model proposed to use the Multimodal features are described more detail in the paper:
 
-Spandana Gella, Mirella Lapata, and Frank Keller. 2016. Unsupervised Visual Sense Disambiguation for Verbs using Multimodal Embeddings. (To appear) In Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics. San Diego.
+Spandana Gella, Mirella Lapata, and Frank Keller. 2016. [Unsupervised Visual Sense Disambiguation for Verbs using Multimodal Embeddings](https://www.aclweb.org/anthology/N/N16/N16-1022.pdf). In Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2016). San Diego, CA.
 
 Note that this repository just includes the Verse dataset annotations and not the images.
 
@@ -15,6 +15,11 @@ Note that this repository just includes the Verse dataset annotations and not th
 * [sense_specific_search_engine_queries.csv](../master/sense_specific_search_engine_queries.csv): 
   Human annotated sense specific search engine queries to retrieve images related to visual senses.
 
+* [motion_verbs.csv](../master/motion_verbs.csv):
+  Set of motion verbs mentioned in the paper
+
+* [non_motion_verbs.csv](../master/non_motion_verbs.csv):
+  Set of motion verbs mentioned in the paper
 License
 -------
 This work is licensed by the University of Edinburgh under a Creative Commons Attribution 4.0 International License.  
